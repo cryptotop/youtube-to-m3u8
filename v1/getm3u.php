@@ -1,5 +1,5 @@
 <?PHP
-$channelid = $_GET["video_url"];
+$channelid = $_GET["https://www.youtube.com/watch?v=WN_zQtZ6fiA"];
 
 
 ini_set("user_agent","facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)");
